@@ -41,8 +41,6 @@ dependencies {
     implementation("io.ktor:ktor-client-serialization:$ktor_version")
     implementation("io.ktor:ktor-client-gson:$ktor_version")
 
-    implementation("com.github.mithil957:alpaca-kotlin:master-SNAPSHOT")
-
     // Use the Kotlin test library.
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 
